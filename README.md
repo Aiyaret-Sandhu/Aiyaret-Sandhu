@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aiyaret-Sandhu
+# 👋 Hi, I’m Aiyaret-Sandhu 
 - 👀 I’m interested in reading, coding and exploring hehe~
 - 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on full stack projects
