@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Aiyaret-Sandhu 
 ## aka, Arshdeep Singh
-- 👀 I’m interested in reading, coding and exploring hehe~
+- 👀 I’m interested in reading, coding and exploring :) hehe ~
 - 🌱 I’m currently learning python and javascript
+- 🎓 I'm a 1st year student at Chitkara University, Punjab 
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 DM on my mail arshsandhuprofessional@gmail.com
 
