@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aiyaret-Sandhu 
+# 👋 Hi, I’m Arshdeep Singh 
 ## aka, Arshdeep Singh
 - 👀 I’m interested in reading, coding and exploring :) hehe ~
 - 🌱 I’m currently learning python and Java
