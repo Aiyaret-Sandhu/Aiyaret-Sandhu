@@ -28,8 +28,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiyaret-Sandhu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-(https://camo.githubusercontent.com/ca1b7d0350e9b7e60f2d2d66856984aa6fed01340cdb812cb0fee914f6f84d45/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c3958697445497747674c5539794d66532f67697068792e676966)
-
 <!---
 Aiyaret-Sandhu/Aiyaret-Sandhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
