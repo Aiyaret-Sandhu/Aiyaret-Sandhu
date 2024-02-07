@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Arshdeep Singh 
-## aka, Arshdeep Singh ✨ 
+# 👋 Hi, I’m Arshdeep Singh
+## aka, Aiyaret Sandhu ✨ 
 ## 💫 About Me:
 
 👀 I’m interested in reading, coding and exploring :) hehe ~<br>
