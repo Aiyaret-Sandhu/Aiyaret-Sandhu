@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Arshdeep Singh
+# 👋 Hi, I’m Arshdeep Singh,
 ## aka, Aiyaret Sandhu ✨ 
 ## 💫 About Me:
 
