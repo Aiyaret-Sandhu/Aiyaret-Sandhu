@@ -2,6 +2,7 @@
 ## aka, Aiyaret Sandhu ✨ 
 ## 💫 About Me:
 
+
 👀 I’m interested in reading, coding and exploring :) hehe ~<br>
 🌱 I’m currently learning python and Java<br>
 🎓 I'm a 1st year student at Chitkara University, Punjab<br>
