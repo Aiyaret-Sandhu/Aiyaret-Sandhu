@@ -9,6 +9,9 @@
 💞️ Connect to me on my linkedin : https://www.linkedin.com/in/arshdeep-singh-723b57293/<br>
 📫 DM on my mail arshsandhuprofessional@gmail.com
 
+### Hacktoberfest Badges
+[![An image of @aiyaretsandhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aiyaretsandhu)](https://holopin.io/@aiyaretsandhu)
+
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshdeep-singh-723b57293/) 
